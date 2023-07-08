@@ -5,4 +5,4 @@ int main(){
     float b=54/5;
     printf("value of a %d\n",(int)b);
     return 0;
-}
+}   
