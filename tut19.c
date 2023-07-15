@@ -12,6 +12,6 @@ int main ()
     int c;
     
     c=takenumber();
-    printf("the number enter ia%d\n",c);
+    printf("the number enter is %d \n",c);
         return 0;
 }
