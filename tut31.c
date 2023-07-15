@@ -6,7 +6,6 @@ void cal(int *x, int *y)
     temp =*x;
     *x=*x+*y;
     *y=temp-*y;
-    return ;
 }
 int main()
 {
